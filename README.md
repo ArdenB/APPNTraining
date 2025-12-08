@@ -13,3 +13,20 @@ conda activate APPNtraining
 conda install dask xarray pandas matplotlib palettable cartopy seaborn ipdb numba bottleneck netCDF4 webcolors gitpython scikit-learn xgboost joblib optuna ipdb rioxarray geopandas pyarrow
 ```
 
+## Important Python Packages
+
+Ploting
+Matplotlib
+Seaborn
+cartopy
+
+
+Tabular data
+Pandas
+(dask) if the files are huge
+
+Raster data
+Xarray/rioxarray
+
+Shape files
+Geopandas
