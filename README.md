@@ -15,18 +15,24 @@ conda install dask xarray pandas matplotlib palettable cartopy seaborn ipdb numb
 
 ## Important Python Packages
 
-Ploting
-Matplotlib
-Seaborn
-cartopy
+### Plotting
+- Matplotlib
+- Seaborn
+- Cartopy
 
+### Tabular data
+- Pandas
+- Dask (if the files are huge)
 
-Tabular data
-Pandas
-(dask) if the files are huge
+### Raster data
+- Xarray/rioxarray
 
-Raster data
-Xarray/rioxarray
+### Shape files
+- Geopandas
+- Shapely
 
-Shape files
-Geopandas
+### ML
+- Statsmodel
+- XGBoost
+- Scikit-learn
+- TensorFlow
